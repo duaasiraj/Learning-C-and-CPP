@@ -1,4 +1,4 @@
-Task:
+# Task:
 Create a pattern as follows for any size, the given one is 5:
 ```
      *
@@ -12,7 +12,7 @@ Create a pattern as follows for any size, the given one is 5:
     ...
      .
 ```
-Solution
+# Solution
 ```c
 #include <stdio.h>
 
